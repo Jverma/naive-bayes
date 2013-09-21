@@ -1,0 +1,3 @@
+Python implementation of Naive Bayes classifier to classify spam and non-spam emails. 
+To Run : 
+python naive_bayes.py training_file.json testing_file.txt
